@@ -20,7 +20,7 @@ It is developed using VS Code.
 3. Enjoy 
 
 ##  Author
-Created by Rana ali haider khan
+Created by Rana ali haider
 
 ##  License
 This project is free to use for learning.
